@@ -1,0 +1,7 @@
+C:\Users\rafob\source\repos\Racunanje\bin\Debug\Racunanje.exe.config
+C:\Users\rafob\source\repos\Racunanje\bin\Debug\Racunanje.exe
+C:\Users\rafob\source\repos\Racunanje\bin\Debug\Racunanje.pdb
+C:\Users\rafob\source\repos\Racunanje\obj\Debug\Racunanje.csproj.AssemblyReference.cache
+C:\Users\rafob\source\repos\Racunanje\obj\Debug\Racunanje.csproj.CoreCompileInputs.cache
+C:\Users\rafob\source\repos\Racunanje\obj\Debug\Racunanje.exe
+C:\Users\rafob\source\repos\Racunanje\obj\Debug\Racunanje.pdb
